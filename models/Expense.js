@@ -1,20 +1,3 @@
-// const mongoose = require("mongoose");
-
-// const expenseSchema = new mongoose.Schema(
-//   {
-//     rows: Array,
-//   },
-//   { timestamps: true }
-// );
-
-// module.exports = mongoose.model(
-//   "Expense",
-//   expenseSchema
-// );
-
-
-
-
 // models/Expense.js
 
 const mongoose = require("mongoose");
